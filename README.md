@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Aanchal+Sharma&center=true&size=30&color=ff69b4,00008b">
 </h1>
 
-<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Data%20Scientist&fontSize=30&fontAlignY=35" /></p>
+<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Computer%20Science%20Enthusiast&fontSize=30&fontAlignY=35" /></p>
 <p align="center">
     <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Gamer GIF" width="150" height="150"/>
 </p>
