@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchal193&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal193" /> </p>
 
 
-- 🔭 I’m currently working on **NeuroWave**
+- 🔭 I’m currently working on **Google ADK Agents, MCP and A2A**
 
-- 🌱 I’m currently learning **Django and Python**
+- 🌱 I’m currently learning **Agentic Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aanchal193](https://github.com/aanchal193)
 
